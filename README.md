@@ -1,4 +1,4 @@
-# Automação para cadastro de produtos
+# Automação para gerar gif
 
 Este é um código para transformar um arquivo de vídeo em gif de forma rápida e eficiente. No código é possível realizar ajustes como quantidade de FPS, tempo de duração, resolução e formato de saída.
 
